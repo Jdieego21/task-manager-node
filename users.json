@@ -1,0 +1,12 @@
+[
+  {
+    "username": "juan",
+    "password": "$2b$10$qAIuu/OoUoaV3e8BmMiVQeObH63N.06RBVoXdEn9AG9EIZwU8X18G",
+    "role": "Jefe"
+  },
+  {
+    "username": "pedro",
+    "password": "$2b$10$EdXC2D4L3bkZvt5.aSoXGebgYRNQXPyb3tQRlDuHgZVZP8KUERxwa",
+    "role": "user"
+  }
+]
