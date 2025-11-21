@@ -21,7 +21,7 @@ Este proyecto es una aplicación de consola en Node.js para gestionar tareas mul
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/Jdieego21/task-manager-node
+   git clone https://github.com/Jdieego21/task-manager-node.git
    cd TU_REPOSITORIO
    ```
 2. Instala las dependencias:
